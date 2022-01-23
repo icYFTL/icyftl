@@ -1,4 +1,4 @@
-# Hardcode, suffering and sometimes good ideas
+# Hardcode, suffering and .NET
 
 `I am Saveliy [icYFTL] Pavlov`  
 
