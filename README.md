@@ -1,22 +1,21 @@
-# Hardcode, suffering and python
+# Hardcode, suffering and sometimes good ideas
 
 `I am Saveliy [icYFTL] Pavlov`  
 
 I don't like web at all. Really.  
-Hate C++ and love python.  
-Actually, I can write in many languages. Just give me a goal.  
+C# is my life.  
+
+Actually, I can write in many languages.  
+Just give me a goal.  
 (and money)  
 
 Also like:  
 * Soccer
 * Docker
-* Meat
 * CTFs
+* GRPC
 
 Also don't like:
 * Low-level
 * Bad specifications
-* Jokes about semicolons and html  
- 
-Think that gays:
-* [Alagunto](https://github.com/Alagunto)  
+* Jokes about semicolons and html   
