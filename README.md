@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hardcode,%20suffering%20and%20.NET)](https://git.io/typing-svg)
 
-![Profile views](https://gpvc.arturio.dev/icYFTL)  
-
 `I am Saveliy [icYFTL] Pavlov`  
 
 C# is my life.
@@ -32,3 +30,5 @@ Also **don't like**:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icYFTL)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/icYFTL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9185894/icyftl)  
+
+![Profile views](https://gpvc.arturio.dev/icYFTL)  
