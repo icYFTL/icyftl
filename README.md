@@ -2,8 +2,6 @@
 
 `I am Saveliy [icYFTL] Pavlov`  
 
-C# is my life.
-
 Actually, I can write in many languages.  
 Just give me a goal.  
 (and money)  
