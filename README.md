@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hardcode,%20suffering%20and%20.NET)](https://git.io/typing-svg)
 
-`I am Saveliy [icYFTL] Pavlov`  
-
 Actually, I can write in many languages.  
 Just give me a goal.  
 (and money)  
