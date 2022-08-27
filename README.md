@@ -17,9 +17,8 @@ Also **don't like**:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=icYFTL)  
 
-**Skills**: `C# / Python3.X / Vue.JS / Javascript / C++ / (T)SQL`
+**Main skills**: `C# / Python3.X / (T)SQL / Vue.JS`
 
-- 🔭 I’m currently working on ItService 
 - 🌱 I’m currently learning .NET 
 
 
