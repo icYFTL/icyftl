@@ -14,6 +14,7 @@ Also **don't like**:
 * Low-level
 * Bad specifications
 * Jokes about semicolons and html   
+* Java
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=icYFTL)  
 
