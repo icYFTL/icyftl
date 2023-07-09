@@ -25,4 +25,4 @@ Also **don't like**:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icYFTL)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/icYFTL)  
+![](https://komarev.com/ghpvc/?username=icyftl&color=blueviolet)
