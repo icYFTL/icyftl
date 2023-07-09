@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hardcode,%20suffering%20and%20.NET)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=icyftl&color=blueviolet)
+
 Actually, I can write in many languages.  
 Just give me a goal.  
 (and money)  
@@ -24,5 +26,3 @@ Also **don't like**:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icYFTL)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=icyftl&color=blueviolet)
